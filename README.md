@@ -28,6 +28,11 @@ This is a web based application developed for health related based website in in
 
 ##services-<img width="960" alt="Screenshot 2022-12-05 172316" src="https://user-images.githubusercontent.com/117819421/205632068-88bae8fb-7dba-4175-a68d-c2acde24b714.png">
 
+##l0cation##-![Natural Spa Spa Category Flat Bootstrap Responsive Website Template - Google Chrome 09_12_2022 09_53_20](https://user-images.githubusercontent.com/117819421/206624500-03c59bae-a6cd-41fe-b05c-4f99efe210f4.png)
+
+##branches##-![Natural Spa Spa Category Flat Bootstrap Responsive Website Template - Google Chrome 09_12_2022 09_54_20](https://user-images.githubusercontent.com/117819421/206624728-09b24585-175c-4112-840c-717b307e5036.png)
+
+##gallery##-![Natural Spa Spa Category Flat Bootstrap Responsive Website Template - Google Chrome 09_12_2022 09_54_47](https://user-images.githubusercontent.com/117819421/206624856-482772da-736a-4acd-9ee8-6bee50704fad.png)
 
 ## Tech Stack 💻
 
@@ -36,3 +41,4 @@ This is a web based application developed for health related based website in in
 - CSS
 - Bootstrap
 - JavaScript# project5
+
